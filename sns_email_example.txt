@@ -1,0 +1,12 @@
+Subject: Amazon S3 Notification via Amazon SNS
+
+This message was sent to you because you subscribed to the SNS topic that
+receives S3 ObjectCreated events.
+
+Bucket: your-bucket-name
+Event: ObjectCreated:Put
+Object Key: uploads/example.txt
+Region: us-east-1
+Time: 2025-08-16T12:34:56Z
+
+To stop receiving these messages, unsubscribe from the SNS topic.
